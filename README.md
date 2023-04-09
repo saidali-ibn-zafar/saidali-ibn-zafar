@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saidali Ibn Zafar</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan.</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwC-JaLeSezL_YLCt9_qEcYlVge-Tmyf-Yg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidali-ibn-zafar&label=Profile%20views&color=0e75b6&style=flat" alt="saidali-ibn-zafar" /> </p>
 
