@@ -1,4 +1,4 @@
-![logo]
+![logo](https://github.com/saidali-ibn-zafar/saidali-ibn-zafar/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Saidali Ibn Zafar</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan.</h3>
 
