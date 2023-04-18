@@ -1,6 +1,5 @@
 ![logo](https://github.com/saidali-ibn-zafar/saidali-ibn-zafar/blob/main/banner.png)
 
-nsfkjsdc
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +15,7 @@ nsfkjsdc
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidali-ibn-zafar&show_icons=true&locale=en&layout=compact" alt="saidali-ibn-zafar" /></p>
     
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saidali-ibn-zafar&show_icons=true&locale=en" alt="saidali-ibn-zafar" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saidali-ibn-zafar&" alt="saidali-ibn-zafar" /></p>
 
 
