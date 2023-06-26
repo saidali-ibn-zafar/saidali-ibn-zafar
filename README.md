@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saidali-ibn-zafar&" alt="saidali-ibn-zafar" /></p>
 
-![Leetcode Stats](https://leetcode.card.workers.dev/saidali_ibn_zafar?theme=dark&font=baloo&extension=null)
+![Leetcode Stats](https://leetcode.card.workers.dev/saidali_ibn_zafar?theme=unicorn&font=baloo&extension=null)
