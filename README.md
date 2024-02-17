@@ -1,5 +1,4 @@
 
-![image title](https://rushter.com/counter.svg)
 ![logo](https://github.com/saidali-ibn-zafar/saidali-ibn-zafar/blob/main/banner.png)
 
 
